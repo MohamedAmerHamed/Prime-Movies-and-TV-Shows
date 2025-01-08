@@ -4,9 +4,7 @@
 
 <img width="634" alt="Prime video" src="https://github.com/user-attachments/assets/4ff82935-1808-4068-8f09-718d0b5408ae" />
 
-
-
-It looks like I don't have access to the content of the page you're viewing. However, based on the description of the dashboard, here are some questions that the dashboard might help answer:
+<h1>the dashboard might help answer:</h1>
 
 How many titles are available on Prime Video?
 
